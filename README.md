@@ -1,4 +1,4 @@
-# ZeezQA
+# AFL TEST INTERVIEW
 Hi there, welcome to my GitHub
 This branch is dedicated to the submission of the AFL Software QA technical interview
 
